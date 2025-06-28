@@ -101,8 +101,3 @@ kill <PID>     # Replace <PID> with the actual process ID
 
 Alternatively, if you ran them in separate terminal windows, you can simply close the terminal window for the desired backend.
 
-## License
-
-This project is open-source and available under the MIT License. See the `LICENSE` file for more details. (Note: A `LICENSE` file is not included in this response, but it's good practice to include one in a real project.)
-
-
